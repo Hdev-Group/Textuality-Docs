@@ -1,0 +1,16 @@
+input: .
+output: .retype
+url: https://textuality.hdev.uk
+branding:
+  logo: /dark-removebg-preview.png
+  logodark: /light-removebg-preview.png
+  label: V0.0.1
+links:
+- text: Home
+  link: https://retype.com/guides/getting-started/
+- text: Website
+  link: https://textuality.hdev.uk
+- text: Support
+  link: https://textuality.hdev.uk/support
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
