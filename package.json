@@ -1,0 +1,28 @@
+{
+  "name": "Textuality Docs",
+  "version": "0.0.1",
+  "description": "Textuality documentation",
+  "main": "README.md",
+  "files": [
+    "doc",
+    "README.md"
+  ],
+  "author": "Hary Campbell",
+  "scripts": {
+    "watch": "npx retype watch",
+    "clean:retype": "rm -rf .retype",
+    "build:retype": "npx retype build",
+    "release:tag": "auto release --base-branch=main",
+    "release:ship": "auto shipit --base-branch=main"
+  },
+  "devDependencies": {
+    "@auto-it/git-tag": "~10.32.5",
+    "auto": "~10.32.5",
+    "commitizen": "~4.2.4",
+    "cz-conventional-changelog": "~3.3.0",
+    "retypeapp": "1.11.2"
+  },
+  "czConfig": {
+    "path": "node_modules/cz-conventional-changelog"
+  }
+}
