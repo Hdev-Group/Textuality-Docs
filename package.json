@@ -1,13 +1,14 @@
 {
-  "name": "Textuality Docs",
-  "version": "0.0.1",
-  "description": "Textuality documentation",
-  "main": "README.md",
+  "name": "textuality-docs",
+  "version": "0.0.12",
+  "description": "Documentation for Textuality",
+  "main": "index.md",
   "files": [
     "doc",
     "README.md"
   ],
-  "author": "Hary Campbell",
+  "homepage": "https://textuality.hdev.uk",
+  "author": "Harry Campbell",
   "scripts": {
     "watch": "npx retype watch",
     "clean:retype": "rm -rf .retype",
