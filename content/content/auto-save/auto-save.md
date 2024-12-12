@@ -1,6 +1,6 @@
 ---
 label: Auto Save
-layout: content
+layout: page
 order: 1000
 icon: globe
 ---

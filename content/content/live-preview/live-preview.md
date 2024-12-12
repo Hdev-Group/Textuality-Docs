@@ -1,6 +1,6 @@
 ---
 label: Live Preview
-layout: content
+layout: page
 order: 1000
 icon: note
 ---

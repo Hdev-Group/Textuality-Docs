@@ -1,6 +1,6 @@
 ---
 label: Templates
-layout: templates
+layout: page
 order: 10000
 icon: browser
 ---

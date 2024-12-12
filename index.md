@@ -1,6 +1,6 @@
 ---
 label: Home
-layout: home
+layout: page
 order: 10000
 icon: home
 

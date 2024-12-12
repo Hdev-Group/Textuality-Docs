@@ -1,29 +1,11 @@
 {
-  "name": "textuality-docs",
-  "version": "0.0.12",
-  "description": "Documentation for Textuality",
-  "main": "index.md",
-  "files": [
-    "doc",
-    "README.md"
-  ],
-  "homepage": "https://textuality.hdev.uk",
-  "author": "Harry Campbell",
+  "name": "docs-trial-2",
+  "version": "1.0.0",
+  "main": "index.js",
   "scripts": {
-    "watch": "npx retype watch",
-    "clean:retype": "rm -rf .retype",
-    "build:retype": "npx retype build",
-    "release:tag": "auto release --base-branch=main",
-    "release:ship": "auto shipit --base-branch=main"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "devDependencies": {
-    "@auto-it/git-tag": "~10.32.5",
-    "auto": "~10.32.5",
-    "commitizen": "~4.2.4",
-    "cz-conventional-changelog": "~3.3.0",
-    "retypeapp": "1.11.2"
-  },
-  "czConfig": {
-    "path": "node_modules/cz-conventional-changelog"
-  }
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }

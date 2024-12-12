@@ -1,6 +1,6 @@
 ---
 label: Support
-layout: Support
+layout: page
 order: 100
 icon: pulse
 ---

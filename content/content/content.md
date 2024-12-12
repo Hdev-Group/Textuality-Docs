@@ -1,6 +1,6 @@
 ---
 label: Content
-layout: content
+layout: page
 order: 1000
 icon: book
 ---

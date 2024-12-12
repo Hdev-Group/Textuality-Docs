@@ -1,6 +1,6 @@
 ---
 label: Live Chat
-layout: content
+layout: page
 order: 1000
 icon: mention
 ---
