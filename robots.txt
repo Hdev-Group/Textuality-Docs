@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://textuality.hdev.uk/sitemap.xml.gz
