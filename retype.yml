@@ -5,6 +5,8 @@ branding:
   logo: /dark-removebg-preview.png
   logodark: /light-removebg-preview.png
   label: V0.0.1
+start:
+  pro: true
 links:
 - text: Home
   link: https://retype.com/guides/getting-started/
